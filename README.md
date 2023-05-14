@@ -6,6 +6,7 @@
   - [Active Directory Home Lab](https://github.com/johncampbell0715/ActiveDirectoryLab)
   - [SIEM Home Lab](https://github.com/johncampbell0715/LABEL)
   - [Packet Sniffer Home Lab](https://github.com/johncampbell0715/LABEL)
+  - [Nessus Home Lab](https://github.com/johncampbell0715/LABEL)
 
 <h2>👨‍💻 Certifications:</h2>
   
