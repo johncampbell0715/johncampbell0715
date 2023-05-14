@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 
-  - [Active Directory Home Lab](https://github.com/johncampbell0715/LABEL)
+  - [Active Directory Home Lab](https://github.com/johncampbell0715/ActiveDirectoryLab)
   - [SIEM Home Lab](https://github.com/johncampbell0715/LABEL)
   - [Packet Sniffer Home Lab](https://github.com/johncampbell0715/LABEL)
 
