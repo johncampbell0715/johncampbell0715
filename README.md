@@ -7,7 +7,13 @@
   - [SIEM Home Lab](https://github.com/johncampbell0715/LABEL)
   - [Packet Sniffer Home Lab](https://github.com/johncampbell0715/LABEL)
 
-
+<h2>👨‍💻 Certifications:</h2>
+  
+   - [CompTIA Security+](https://www.linkedin.com/in/johnathancampbell/)
+   - [Microsoft Certified: Azure Fundamentals](https://www.linkedin.com/in/johnathancampbell/)
+   - [Armis Cyber Defense Core](https://www.linkedin.com/in/johnathancampbell/)
+   - [Fortinet NSE1](https://www.linkedin.com/in/johnathancampbell/)
+  
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="Johncampbell0715 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
