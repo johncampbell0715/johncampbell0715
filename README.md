@@ -1,4 +1,4 @@
-<h1>Hi, I'm Johnathan! <br/><a href="https://github.com/johncampbell0715">Programmer</a>, <a href="https://www.linkedin.com/in/johnathancampbell/">Cybersecurity Professional</a>
+<h1>Hi, I'm Johnathan! <br/><a href="https://www.linkedin.com/in/johnathancampbell/">Cybersecurity Professional</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
